@@ -1,0 +1,14 @@
+
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8ÛŠŸ/
+\
+java:S1854":Remove this useless assignment to local variable "teller".(ÕÜğáúÿÿÿÿ8¤¡/
+J
+java:S6212"/Declare this local variable with "var" instead.(ÕÜğáúÿÿÿÿ
+E
+java:S6212 "/Declare this local variable with "var" instead.(Ş¯ì…
+E	java:S108 ")Either remove or fill this block of code.(Ş¯ì…8’¤¡/
+M
+java:S1481"+Remove this unused "teller" local variable.(ÕÜğáúÿÿÿÿ8“¤¡/
+K
+java:S1068".Remove this unused "eventQueue" private field.(”ìøÏ8Ø„›/
